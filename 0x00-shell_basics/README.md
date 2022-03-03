@@ -35,3 +35,5 @@
 16. 100-lets\_move - This script moves all files starting with capital to a directory /tmp/u with the -t flag.
 
 17. 101-clean\_emacs - This script uses rm to delete files matching a wildcard.
+
+18. 102-tree - This script creates three directories with mkdir
