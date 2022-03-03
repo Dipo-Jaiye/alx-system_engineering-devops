@@ -36,4 +36,6 @@
 
 17. 101-clean\_emacs - This script uses rm to delete files matching a wildcard.
 
-18. 102-tree - This script creates three directories with mkdir
+18. 102-tree - This script creates three directories with mkdir.
+
+19. 103-commas - This script uses various options of the ls command.
