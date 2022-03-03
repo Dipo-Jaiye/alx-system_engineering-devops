@@ -27,4 +27,10 @@
 
 14. 13-change\_group - Changes the group owner of a file to another group.
 
-15.
+15. 100-change\_owner\_and\_group - Changes owner and group of all files to vincent and staff respectively.
+
+16.
+
+17.
+
+18.
