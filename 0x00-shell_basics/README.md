@@ -32,4 +32,6 @@
 
 15. 14-copy\_html - This script copies stuff using cp and the -u flag.
 
-16. 100-lets\_move - This script moves all files starting with capital to a directory /tmp/u
+16. 100-lets\_move - This script moves all files starting with capital to a directory /tmp/u with the -t flag.
+
+17. 101-clean\_emacs - This script uses rm to delete files matching a wildcard.
