@@ -23,4 +23,6 @@
 
 12. 11-directories\_permissions - Give sub directories permissions and only sub directories.
 
-13. 
+13. 12-directory\_permissions - Make a directory and give it permissions.
+
+14. 
