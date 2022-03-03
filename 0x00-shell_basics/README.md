@@ -27,3 +27,5 @@
 12. 11-lists - This script lists all directories in a specified order.
 
 13. 12-file\_type - This script prints file type with file command.
+
+14. 13-symbolic\_link - This script creates a symbolic link of __ls__ to /bin/ls
