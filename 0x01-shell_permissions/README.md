@@ -11,4 +11,6 @@
 
 6. 5-execute - This script adds execution permission to file hello.
 
-7.  
+7. 6-multiple\_permissions - This gives execution permission to owner and group but read permission to others.
+
+8.  
