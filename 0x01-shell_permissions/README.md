@@ -31,6 +31,6 @@
 
 16. 101-symbolic\_link\_permissions - Changes the owner and group of symbolic links.
 
-17.
+17. 102-if\_only - Only change a file if it's owned by someone else.
 
 18.
