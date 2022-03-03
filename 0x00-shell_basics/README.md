@@ -9,3 +9,5 @@
 3. 2-bring\_me\_home - This script uses cd and a space to redirect user to home directory. Try it with source to see the effect.
 
 4. 3-listfiles - This script uses ls -l to list all contents in working directory in long format.
+
+5. 4-listmorefiles - This script uses ls -al to list all files including hidden ones in long format.
