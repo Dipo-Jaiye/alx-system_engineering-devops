@@ -21,4 +21,6 @@
 
 11. 10-mirror\_permissions - Gives permission of one file to another.
 
-12.    
+12. 11-directories\_permissions - Give sub directories permissions and only sub directories.
+
+13. 
