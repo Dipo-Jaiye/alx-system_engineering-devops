@@ -15,4 +15,6 @@
 
 8. 7-everybody - This gives everyuser execution permission.
 
-9.   
+9. 8-James\_Bond - This give other users all the permissions and none to owner or group.
+
+10.    
