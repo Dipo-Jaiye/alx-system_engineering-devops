@@ -21,3 +21,5 @@
 9. 8-firstdelete - This script uses the rm command to delete a file with path specified.
 
 10. 9-firstdirdeletion - This script deletes a directory with rm -r.
+
+11. 10-back - This script changes a working directory to previous with cd -.
