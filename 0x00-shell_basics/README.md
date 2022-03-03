@@ -29,3 +29,5 @@
 13. 12-file\_type - This script prints file type with file command.
 
 14. 13-symbolic\_link - This script creates a symbolic link of __ls__ to /bin/ls
+
+15. 14-copy\_html = This script copies stuff using cp and the -u flag.
