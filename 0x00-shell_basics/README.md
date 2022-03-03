@@ -15,3 +15,5 @@
 6. 5-listfilesdigitonly - This scripts uses ls -lan to list all files in long format with user id and numeric group IDs.
 
 7. 6-firstdirectory - This script uses mkdir to create a directory in the /tmp/ directory.
+
+8. 7-movethatfile - This script uses the mv command to move betty from somewhere to another.
