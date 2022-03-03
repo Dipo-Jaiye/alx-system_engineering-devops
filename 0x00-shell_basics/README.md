@@ -30,4 +30,6 @@
 
 14. 13-symbolic\_link - This script creates a symbolic link of __ls__ to /bin/ls
 
-15. 14-copy\_html = This script copies stuff using cp and the -u flag.
+15. 14-copy\_html - This script copies stuff using cp and the -u flag.
+
+16. 100-lets\_move - This script moves all files starting with capital to a directory /tmp/u
