@@ -17,4 +17,6 @@
 
 9. 8-James\_Bond - This give other users all the permissions and none to owner or group.
 
-10.    
+10. 9-John\_Doe - This gives a file permissions as specified in the tutorial.
+
+11.    
