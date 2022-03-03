@@ -13,4 +13,6 @@
 
 7. 6-multiple\_permissions - This gives execution permission to owner and group but read permission to others.
 
-8.  
+8. 7-everybody - This gives everyuser execution permission.
+
+9.   
