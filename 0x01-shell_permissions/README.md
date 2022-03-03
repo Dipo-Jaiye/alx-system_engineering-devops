@@ -9,4 +9,6 @@
 
 5. 4-empty - This script creates an empty file.
 
-6. 
+6. 5-execute - This script adds execution permission to file hello.
+
+7.  
