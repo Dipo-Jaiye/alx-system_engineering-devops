@@ -12,4 +12,6 @@
 
 5. 4-listmorefiles - This script uses ls -al to list all files including hidden ones in long format.
 
-6. 5-listfilesdigitonly - This scripts uses ls -lan to list all files in long format with user id and numeric group IDS.
+6. 5-listfilesdigitonly - This scripts uses ls -lan to list all files in long format with user id and numeric group IDs.
+
+7. 6-firstdirectory - This script uses mkdir to create a directory in the /tmp/ directory.
