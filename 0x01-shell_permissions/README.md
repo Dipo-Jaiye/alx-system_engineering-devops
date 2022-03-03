@@ -19,4 +19,6 @@
 
 10. 9-John\_Doe - This gives a file permissions as specified in the tutorial.
 
-11.    
+11. 10-mirror\_permissions - Gives permission of one file to another.
+
+12.    
