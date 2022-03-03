@@ -25,3 +25,5 @@
 11. 10-back - This script changes a working directory to previous with cd -.
 
 12. 11-lists - This script lists all directories in a specified order.
+
+13. 12-file\_type - This script prints file type with file command.
