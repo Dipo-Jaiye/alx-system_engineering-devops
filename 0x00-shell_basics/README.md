@@ -7,3 +7,5 @@
 2. 1-listit - This script uses ls to print all the contents of the current working directory.
 
 3. 2-bring\_me\_home - This script uses cd and a space to redirect user to home directory. Try it with source to see the effect.
+
+4. 3-listfiles - This script uses ls -l to list all contents in working directory in long format.
