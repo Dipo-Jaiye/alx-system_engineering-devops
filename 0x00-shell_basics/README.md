@@ -39,3 +39,5 @@
 18. 102-tree - This script creates three directories with mkdir.
 
 19. 103-commas - This script uses various options of the ls command.
+
+20. School.mgc - This magic file was compiled with file -C -m school. It checks for files that start with SCHOOL at offset 0.
